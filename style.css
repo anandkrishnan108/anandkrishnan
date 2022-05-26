@@ -5,7 +5,7 @@ Add a black background color to the top navigation */
 .navbar {
     overflow: hidden;
     font-family: Verdana, sans-serif;
-    text-align: center;
+
 }
 
 .navbar a {
@@ -179,4 +179,35 @@ img {vertical-align: middle;}
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
+}
+
+.parent {
+  margin: 1rem;
+  padding: 2rem 2rem;
+  text-align: center;
+}
+.child {
+  display: inline-block;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+}
+.caption {
+  text-align: center;
+}
+.table {
+  text-align: center;
+}
+table, th, td {
+    border: 3px solid goldenrod;
+    font-size: 16px;
+    border-collapse: collapse;
+    padding: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.it {
+  color: goldenrod;
+  text-align: center;
 }
