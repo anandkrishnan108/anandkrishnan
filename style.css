@@ -2,14 +2,21 @@
 the following is code taken from https://www.w3schools.com
 Add a black background color to the top navigation */
 /* learned about hover drop down nav bars from w3schools */
+
 .navbar {
     overflow: hidden;
     font-family: Verdana, sans-serif;
-
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+align-items: center;
+justify-content: center;
+      
 }
-
 .navbar a {
-    float: left;
+  float: left;
     font-size: 16px;
     color: #2196F3;
     text-align: center;
