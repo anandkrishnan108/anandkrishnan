@@ -26,6 +26,7 @@ class Header extends HTMLElement {
                   <a href="https://krishnan5826.github.io/madlibs.html" target="_blank">Madlib Generator</a>
                   <a href="https://krishnan5826.github.io/tajMahal.html" target="_blank">HTML Canvas Project</a>
                   <a href="https://vegan-me.github.io/vegan-me/" target="_blank">VeganMe</a>
+                  <a href="https://medremind.herokuapp.com/" target="_blank">MedRemind</a>
               </div>
           </div>
           <a class="placeholder">|</a>
