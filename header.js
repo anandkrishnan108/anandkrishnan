@@ -21,12 +21,8 @@ class Header extends HTMLElement {
               <div class="dropdown-content">
               <a href="https://github.com/anandkrishnan108?tab=repositories" target="_blank">Github Profile</a>
                   <a href="https://krishnan5826.github.io" target="_blank">My first website (created when I was 14)</a>
-                  <a href="https://krishnan5826.github.io/js_miniprojects.html" target="_blank">Mini-Projects</a>
-                  <a href="https://krishnan5826.github.io/calculator.html" target="_blank">Calculator</a>
-                  <a href="https://krishnan5826.github.io/madlibs.html" target="_blank">Madlib Generator</a>
-                  <a href="https://krishnan5826.github.io/tajMahal.html" target="_blank">HTML Canvas Project</a>
                   <a href="https://vegan-me.github.io/vegan-me/" target="_blank">VeganMe</a>
-                  <a href="https://medremind.herokuapp.com/" target="_blank">MedRemind</a>
+                  <a href="https://www.youtube.com/watch?v=OEzaNsuPNds" target="_blank">UIUC Landmarks App (CS 124 Project)</a>
               </div>
           </div>
           <a class="placeholder">|</a>
