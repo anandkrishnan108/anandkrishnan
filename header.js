@@ -23,6 +23,7 @@ class Header extends HTMLElement {
                   <a href="https://krishnan5826.github.io" target="_blank">My first website (created when I was 14)</a>
                   <a href="https://vegan-me.github.io/vegan-me/" target="_blank">VeganMe</a>
                   <a href="https://www.youtube.com/watch?v=OEzaNsuPNds" target="_blank">UIUC Landmarks App (CS 124 Project)</a>
+                  <a href="https://rpubs.com/akrishx/t20wc" target="_blank">ICC T20 World Cup 2022 Team of the Tournament (R Dashboard)</a>
               </div>
           </div>
           <a class="placeholder">|</a>
