@@ -38,8 +38,8 @@ class Header extends HTMLElement {
                   <a href="topsoccer.html">Volunteering</a>
                   </div>
           </div>
-          <a class="placeholder">|</a>
-          <a href="travel.html">Travel</a>
+          <!--<a class="placeholder">|</a>
+          <a href="travel.html">Travel</a>-->
           <a class="placeholder">|</a>
           <a href="AnandKrishnan_Resume.pdf" target="_blank" download>Résumé</a>
           <a class="placeholder">|</a>
