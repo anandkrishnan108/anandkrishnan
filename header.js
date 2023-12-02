@@ -33,7 +33,7 @@ class Header extends HTMLElement {
                   <i class="fa fa-caret-down"></i>
               </button>
               <div class="dropdown-content">
-                  <a href="soccer.html">Playing</a>
+                  <!--<a href="soccer.html">Playing</a>-->
                   <a href="referee.html">Refereeing</a>
                   <a href="topsoccer.html">Volunteering</a>
                   </div>
@@ -50,8 +50,6 @@ class Header extends HTMLElement {
               <div class="dropdown-content">
                   <a href="mailto:akrishx@gmail.com">Email: akrishx@gmail.com</a>
                   <a href="https://www.linkedin.com/in/anand-krishnan-0a62621ab/" target="_blank">LinkedIn</a>
-                  <a href="https://www.instagram.com/akrishx/" target="_blank">Insta: akrishx</a>
-                  <a href="#">Snap: akrishx5</a>
               </div>
           </div>
         </div>  
